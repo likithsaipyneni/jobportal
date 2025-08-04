@@ -8,7 +8,7 @@ A full-stack platform enabling decentralized job posting, social networking, and
 
 - 🧪 App: [https://jobportal-iota-gilt.vercel.app](https://jobportal-iota-gilt.vercel.app)
 - 🛠 GitHub: [https://github.com/likithsaipyneni/jobportal](https://github.com/likithsaipyneni/jobportal)
-- 📹 Demo Video: [Google Drive – Demo]([https://drive.google.com/your-demo-link](https://www.loom.com/share/cc39004aadca4349904d0dac3f3e8f56?sid=bb1ca14a-73c7-4af1-b164-b8d5da6e22fa))
+- 📹 Demo Video: [Demo](https://www.loom.com/share/cc39004aadca4349904d0dac3f3e8f56?sid=bb1ca14a-73c7-4af1-b164-b8d5da6e22fa))
 
 ---
 
