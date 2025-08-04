@@ -12,7 +12,7 @@ A full-stack platform enabling decentralized job posting, social networking, and
 
 ---
 
-## 🚀 Features
+## 🚀 Task 1: Platform Development Overview
 
 ### ✅ Module 1: Authentication & Profile Management
 - JWT-based signup/login
@@ -86,13 +86,13 @@ npm run dev
 cd server
 npm install
 npm run dev
-
-
-## 📊 Task 2: GTM (Go-To-Market) & Monetization Strategy
-
-The goal of this strategy is to position the platform for rapid adoption and long-term sustainability by effectively targeting the right users, leveraging low-cost marketing channels, and building diverse revenue streams.
+```
 
 ---
+
+# 📊 Task 2: GTM (Go-To-Market) & Monetization Strategy
+
+The goal of this strategy is to position the platform for rapid adoption and long-term sustainability by effectively targeting the right users, leveraging low-cost marketing channels, and building diverse revenue streams.
 
 ### 🎯 Product Vision
 
